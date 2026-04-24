@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+*.js
+*.d.ts
+*.tsbuildinfo
+.DS_Store
+papers/*.pdf
+.lancedb/
